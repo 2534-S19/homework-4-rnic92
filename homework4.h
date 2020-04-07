@@ -1,8 +1,8 @@
 /*
  * homework4.h
  *
- *  Created on:
- *      Author:
+ *  Created on: 06Apr20
+ *      Author: Nicolas Rohr
  */
 
 #ifndef HOMEWORK4_H_
